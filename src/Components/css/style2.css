@@ -1,0 +1,23 @@
+.main{
+    background-color: #f4f4f8;
+}
+.inputField{
+    margin-top: 1%;
+    margin-left: 50%;
+    border: solid 0;
+    border-radius: 2%;
+    width: 15%;
+    height: 6vh;
+    background-color:  #28462c;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 15px;
+}
+.Container{
+    object-fit: cover;
+    display: flex;
+    flex-direction: row;
+    border: solid 0;
+    margin-top: 20px;
+    height: 88vh;
+}

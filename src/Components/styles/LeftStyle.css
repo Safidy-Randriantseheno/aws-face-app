@@ -1,0 +1,17 @@
+.left-container{
+    object-fit: cover;
+    align-items: center;
+    background-color: #f4f4f8;
+    border: solid 0;
+    width: 30vw;
+    height: 60vh;
+}
+.left-container>input{
+    display: none;
+}
+.Image img{
+    object-fit: cover;
+    margin-left: 20%;
+    width: 60%;
+    height: 60%;
+}
