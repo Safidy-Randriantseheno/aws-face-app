@@ -2,13 +2,12 @@
     background-color: #f4f4f8;
 }
 .inputField{
-    margin-top: 1%;
+    margin-top: 2%;
     margin-left: 50%;
-    border: solid 0;
     border-radius: 2%;
     width: 15%;
     height: 6vh;
-    background-color:  #28462c;
+    background-color:  #26f742;
     color: whitesmoke;
     text-align: center;
     padding-top: 15px;
